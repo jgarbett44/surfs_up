@@ -2,7 +2,7 @@
 
 ## Overview
 
-We have a business plan for an ice cream/surf shop on the island of Oahu; however, one possible investor wants to know more about the weather. To satisfy his concerns, we performed analytics on a weather data set.
+We have a business plan for an ice cream/surf shop on the island of Oahu; however, one major investor is worried about the weather. To satisfy his concerns, we performed analytics on a weather data set.
 
 ## Results
 
